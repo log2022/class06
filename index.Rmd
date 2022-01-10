@@ -105,13 +105,14 @@ class: center, middle
 
 ---
 
-class: center, middle
+
 
 ## Logística Urbana
 [Livro](https://podeditora.com.br/wp-content/uploads/2019/04/Livro-A-logistca-urbana-no-Brasil-site.pdf)
 
-- Digital Twins
-- Physical internet
+Digital Twins
+
+Physical internet
 
 ---
 
@@ -122,29 +123,30 @@ class: center, middle
 ---
 # Modos de transporte
 
-Quais são os modos utilizados para movimentação de cargas?
+**Quais são os modos utilizados para movimentação de cargas?**
+<br></br>
 
 
 --
 
 Rodoviário
-
+<br></br>
 --
 
 Ferroviário
-
+<br></br>
 --
 
 Aquaviário
-
+<br></br>
 --
 
 Dutoviário
-
+<br></br>
 --
 
 Aéreo
-
+<br></br>
 --
 
 Eletrônico
@@ -381,20 +383,6 @@ knitr::include_graphics("./img/calamidade.png")
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./img/greve01.png")
 ```
-
----
-### Revisão de Gestão de Estoques
-- Quanto pedir   
-  - Custos de estoques   
-  - Lote econômico de compras   
-
-- Quando pedir   
-  - Revisões contínuas e periódicas
-
-- Como controlar o sistema   
-  - Curva ABC   
-  - Inventário   
-  - Planejamento de estoques de segurança   
 
 ---
 
