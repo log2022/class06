@@ -1,9 +1,8 @@
 ---
-title: "Logística"
-subtitle: "Gestão de transportes"
+title: "Gestão de transportes"
+subtitle: "Logística"
 author: 
   - <br></br>Renata Oliveira
-date: '10/01/2021'
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -383,18 +382,6 @@ knitr::include_graphics("./img/calamidade.png")
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 knitr::include_graphics("./img/greve01.png")
 ```
-
----
-
-## Atividades da semana
-
-Prazo | Atividade
-------|----------
-17/11/2021|[**Estudos Autônomos** - Nível de serviço logístico](https://retaoliveira.github.io/places/courses/log/est_1/)
-24/11/2021|[**Estudos Autônomos** - KPI](https://retaoliveira.github.io/places/courses/log/est_2/)
-07/12/2021|[**Estudos Autônomos** - Logistica Urbana](https://retaoliveira.github.io/places/courses/log/est_3/)
-24/01/2021|[**Estudos Autônomos** - Transportes](https://retaoliveira.github.io/places/courses/log/est_4/)
-14/01/2021|[**Projeto 1**](https://retaoliveira.github.io/places/courses/log/project1/)
 
 ---
 
