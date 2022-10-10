@@ -152,6 +152,31 @@ Eletrônico
 
 
 ---
+### Transportes....
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./img/transp_modos.png")
+```
+
+---
+### Transportes....
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./img/transp.png")
+```
+
+
+---
+### Transportes....
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::include_graphics("./img/transp_matriz.png")
+```
+
+
+
+
+---
 
 class: center, middle
 
